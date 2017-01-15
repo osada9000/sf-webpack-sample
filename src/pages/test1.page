@@ -1,0 +1,15 @@
+<!--
+ - Created by osada on 2017/01/15.
+ -->
+
+<apex:page id="test1">
+    <head>
+    </head>
+
+    <body>
+    <h1>test1 page</h1>
+    <div id="AAA"></div>
+
+    <script type="text/javascript" src="{!$Resource.test_resource1}"/>
+    </body>
+</apex:page>
